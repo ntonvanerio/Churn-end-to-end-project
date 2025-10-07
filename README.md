@@ -19,7 +19,7 @@ The project encompasses the full data science lifecycle, from Exploratory Data A
 
 ## 📊 Dataset
 
-The project uses the publicly available **Telco Customer Churn dataset** (assumed to be `Telco_Customer_Churn.csv`), which contains information about:
+The project uses the publicly available **Telco Customer Churn dataset**  which contains information about:
 
 * **Customer Demographics:** Gender, SeniorCitizen status, Partner, Dependents.
 * **Account Information:** Tenure, Contract type, PaymentMethod, MonthlyCharges, TotalCharges.
